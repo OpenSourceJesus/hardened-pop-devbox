@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor / IDE
+.idea/
+*.sublime-*
+
+# Local overrides or secrets (if you add any)
+*.local
+.env
+.env.*
+!.env.example
+
+# Logs and temp
+*.log
+tmp/
+temp/
+
+# Backup files
+*.bak
+*.backup
